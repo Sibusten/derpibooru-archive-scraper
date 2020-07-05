@@ -2,6 +2,8 @@
 
 Scrapes images from [The Pony Archive](https://www.theponyarchive.com/) that have a specific tag.
 
+Note: this is intended for images which have been deleted. If the images still exist, use [Derpibooru Downloader](https://github.com/Sibusten/derpibooru-downloader) instead.
+
 ## Setup
 
 This app requires setting up a [PostgreSQL database](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) hosting a data dump from Derpibooru. These can be found on the [Data Dumps](https://derpibooru.org/pages/data_dumps) page, along with instructions on how to set it up.
